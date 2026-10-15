@@ -1,0 +1,3 @@
+FitPlan uses only the 14 media files supplied by the user in iLoveZIP_Create.zip.
+The 12 GIFs are used directly as animated GIFs; the PNG and JPG are used as static exercise illustrations.
+No other exercise photos or animations are bundled. Exercise descriptions are informational; compare the exercise name with its provided illustration before training.

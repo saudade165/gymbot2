@@ -1,0 +1,8 @@
+FitPlan v8 animation assets
+
+Exercise animations sourced from Flow Exercise Dataset: https://github.com/ozansozuozgit/flow-exercise-dataset
+Artwork license stated by source: CC0-1.0 (see included source LICENSE, ARTWORK-LICENSE, and NOTICE.md).
+
+Each exercise uses a local animated GIF assembled from the source SVG frames. The source project warns that its illustrations are not professionally verified coaching.
+
+Important: the source dataset does not provide a running-specific animation. The Run card temporarily uses a high-knee cardio illustration and it is NOT an exact running technique demonstration.
